@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi, my name is Konstantinos 👋 
+##### I'm an Associate Software Engineer at <a href='https://wappier.com/'>wappier</a> but also a student at <a href='https://www.di.uoa.gr/'>DIT</a>
+
+
+<summary> Github Stats: </summary>
+<img src='https://github-readme-stats.vercel.app/api?username=kostantinostheo&theme=buefy &show_icons=true&include_all_commits=true'/>
+
+<summary> Most used languages: </summary>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kostantinostheo&layout=compact&langs_count=8'/>
+
 
 <!--
 **kostantinostheo/kostantinostheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
