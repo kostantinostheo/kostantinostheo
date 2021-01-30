@@ -9,7 +9,7 @@
 
 </br>
 <summary> Github Stats: </summary>
-<img src='https://github-readme-stats.vercel.app/api?username=kostantinostheo&theme=buefy &show_icons=true&include_all_commits=true'/>
+<img src='https://github-readme-stats.vercel.app/api?username=kostantinostheo&theme=calm&show_icons=true&include_all_commits=true'/>
 
 <summary> Most used languages: </summary>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kostantinostheo&layout=compact&langs_count=8'/>
