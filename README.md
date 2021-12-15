@@ -1,9 +1,9 @@
 ## Hi, I'm Konstantinos 👋 
 
 <p>
-- 🔭 I’m currently working on <a href='https://wappier.com/'>wappier</a> <br/>
-- 🎮 I made a mobile game because I was bored ... find it <a href='https://play.google.com/store/apps/details?id=com.KonstantinosTheofilis.Nohandshakesplease'>here</a> <br/>
-- 📫 How to reach me: </b> this is my LinkedIn <a href='https://www.linkedin.com/in/konstantinos-theofilis-770396144/'> Konstantinos Theofilis </a><br/>
+- 👨‍💻 I’m currently working on <a href='https://wappier.com/'>wappier</a> <br/>
+- 🎮 I develop mobile games ... find one <a href='https://play.google.com/store/apps/details?id=com.KonstantinosTheofilis.Nohandshakesplease'>here</a> <br/>
+- 📫 How to reach me: </b> Here is my LinkedIn <a href='https://www.linkedin.com/in/konstantinos-theofilis-770396144/'> Konstantinos Theofilis </a><br/>
 - ⚡ Fun fact: <i>"You never finish a program, you just stop working on it"</i> <br/>
 </p>
 
