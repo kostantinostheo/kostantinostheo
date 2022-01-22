@@ -7,6 +7,7 @@
 - ⚡ Fun fact: <i>"You never finish a program, you just stop working on it"</i> <br/>
 </p>
 
+<!--
 </br>
 <summary> Github Stats: </summary>
 <img src='https://github-readme-stats.vercel.app/api?username=kostantinostheo&theme=calm&show_icons=true&include_all_commits=true'/>
