@@ -7,10 +7,10 @@
 - ⚡ Fun fact: <i>"You never finish a program, you just stop working on it"</i> <br/>
 </p>
 
-<a href="https://github.com/xBis7/github-readme-stats">
+<a>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kostantinostheo&theme=react&show_icons=true" />
 </a>
-<a href="https://github.com/xBis7/github-readme-stats">
+<a>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostantinostheo&theme=react&layout=compact" />
 </a>
 <!--
